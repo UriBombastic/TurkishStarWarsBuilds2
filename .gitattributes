@@ -1,0 +1,6 @@
+Turkish[[:space:]]Star[[:space:]]Wars_Data filter=lfs diff=lfs merge=lfs -text
+UnityCrashHandler32.exe filter=lfs diff=lfs merge=lfs -text
+UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+MonoBleedingEdge filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Turkish[[:space:]]Star[[:space:]]Wars.exe filter=lfs diff=lfs merge=lfs -text
